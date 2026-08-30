@@ -1,9 +1,17 @@
-<script setup>
+<script >
+import Header from '../components/Header.vue'
+import MainSection from '@/components/MainSection.vue';
+
+export default {
+    components: {Header, MainSection}
+}
 
 </script>
 
 <template>
-  <main>
-    <h2>Main page</h2>
-  </main>
+  <div>
+    <Header/>
+    <MainSection/>
+
+  </div>
 </template>
