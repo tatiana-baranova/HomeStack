@@ -7,10 +7,10 @@
     <header>
         <img src="../../img/logo.svg" alt="">
         <ul>
-            <li><a href="" class="active logo">Головна</a></li>
+            <li><RouterLink to="/" active-class="active">Головна</RouterLink></li>
             <li><a href="" class="logo"></a>Товари</li>
-            <li><a href="" class="logo"></a>Доставка</li>
-            <li><a href="" class="logo"></a>Про нас</li>
+            <li><RouterLink to="/delivery" active-class="active">Доставка</RouterLink></li>
+            <li><RouterLink to="/about" active-class="active">Про нас</RouterLink></li>
             <li><img src="../../img/purchase.svg"></li>
         </ul>
     </header>
