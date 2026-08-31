@@ -7,10 +7,10 @@
     <header>
         <img src="../../img/logo.svg" alt="">
         <ul>
-            <li><RouterLink to="/" active-class="active">Головна</RouterLink></li>
-            <li><a href="" class="logo"></a>Товари</li>
-            <li><RouterLink to="/delivery" active-class="active">Доставка</RouterLink></li>
-            <li><RouterLink to="/about" active-class="active">Про нас</RouterLink></li>
+            <li><RouterLink to="/" class="logo" active-class="active">Головна</RouterLink></li>
+            <li><RouterLink to="/items" class="logo" active-class="active">Товари</RouterLink></li>
+            <li><RouterLink to="/delivery" class="logo" active-class="active">Доставка</RouterLink></li>
+            <li><RouterLink to="/about" class="logo" active-class="active">Про нас</RouterLink></li>
             <li><img src="../../img/purchase.svg"></li>
         </ul>
     </header>
@@ -46,9 +46,9 @@ header ul li .active:hover{
     background-color: #616364;
     
 }
-/* .logo {
+.logo {
     position: relative;
     bottom: 10px;
-} */
+}
 
 </style>

@@ -6,8 +6,8 @@
             <h1>Shop</h1>
             <h2>online</h2>
             <h3>now</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <button>Начать покупки</button>
+            <p>Знаходьте потрібні товари легко та швидко. Обирайте серед актуального асортименту, оформлюйте замовлення онлайн та отримуйте покупки зручно й без зайвих турбот.</p>
+            <button>Розпочати покупки</button>
         </div>
     </div>
 </template>

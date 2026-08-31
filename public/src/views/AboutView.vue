@@ -10,11 +10,11 @@ export default {
   <div>
     <Header />
     <h1>Про нас</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+    <p>Ми — сучасний інтернет-магазин, створений для тих, хто цінує якість, зручність та приємний досвід покупок. Ми ретельно підбираємо товари для нашого асортименту та прагнемо пропонувати покупцям лише актуальні й перевірені варіанти. Для нас важливо, щоб кожен клієнт міг легко знайти необхідний товар, швидко оформити замовлення та отримати його у зручний спосіб. Ми постійно працюємо над розвитком магазину, оновлюємо асортимент і вдосконалюємо сервіс, щоб процес покупок був простим та комфортним. 
 <br><br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Ми уважно ставимося до потреб наших клієнтів і намагаємося забезпечити високий рівень обслуговування на кожному етапі покупки. Наша команда готова допомогти з вибором товару, відповісти на запитання та надати необхідну інформацію щодо замовлення. Ми цінуємо довіру наших покупців, тому прагнемо бути відкритими, відповідальними та уважними до кожного звернення. Відгуки наших клієнтів допомагають нам розуміти, що можна зробити краще, і мотивують постійно вдосконалювати нашу роботу.
 <br><br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Ми хочемо, щоб наш магазин був місцем, куди приємно повертатися знову. Саме тому ми приділяємо увагу не лише якості товарів, а й зручності сайту, швидкості обробки замовлень та якості комунікації з покупцями. Наша мета — створити простий і зрозумілий сервіс, де кожен може без зайвих складнощів здійснити покупку та залишитися задоволеним результатом. Дякуємо, що обираєте нас, користуєтеся нашим сервісом і допомагаєте нам розвиватися!</p>
   </div>
 </template>
 
