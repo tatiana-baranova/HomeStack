@@ -1,3 +1,8 @@
 from django.shortcuts import render
+from .serializers import ItemSerializer
+from rest_framework.viewsets import ModelViewSet
+from .models import Item
 
-# Create your views here.
+class ItemPage(ModelViewSet):
+    queryset = Item.objects.all()
+    serializer_class = ItemSerializer
