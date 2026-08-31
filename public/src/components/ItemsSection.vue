@@ -8,14 +8,18 @@
                 <span>{{ el.price }}$</span>
                 <img src="/img/add-to-basket.svg" :alt="el.title">
             </div>
+            <FormEdit :item="el" />
         </div>
     </div>
 </template>
 
 <script>
 import axios from 'axios'
-
+import FormEdit from './FormEdit.vue'
 export default {
+    components: {
+        FormEdit
+    },
     data() {
         return {
             items: []

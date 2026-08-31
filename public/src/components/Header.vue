@@ -37,7 +37,7 @@ header ul li{
 }
 header ul li .active{
     padding: 5px 15px;
-    background-color: #B2BAC1;
+    background-color: #b2c1bd;
     border-radius: 20px;
 }
 
